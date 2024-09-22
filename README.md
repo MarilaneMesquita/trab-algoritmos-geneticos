@@ -26,7 +26,7 @@ O valor de x está restrito ao intervalo [-10, +10].
 
 ### Pré-requisitos
 
-- *Python 3.x*: Certifique-se de que o Python 3 está instalado no seu sistema.
+- *Python 3.12.2*: Certifique-se de que o Python 3 está instalado no seu sistema.
 
 ### Instruções
 
